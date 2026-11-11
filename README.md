@@ -1,3 +1,7 @@
+> 🇨🇳 **中文用户从这里开始**：[中文使用说明.md](中文使用说明.md) —— 安装、全部命令、40+ 配置项逐条中文解释。
+>
+> 另附两个 Windows 启动脚本：`start-opendate.ps1`（八项菜单启动器）、`demo-opendate.ps1`（离线演示，不联网、不发消息）。
+
 <!-- Banner placeholder: drop a hero image/GIF here once one exists, e.g.
      ![OpenDate](docs/banner.png) -->
 
